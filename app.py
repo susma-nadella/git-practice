@@ -1,5 +1,5 @@
 print("Hello Git")
-print("git is useful")
+print("git is useful fot teamwork")
 print("this isfeature branch")
 print("Learning GitHub pull")
 print("parcticing the git push")
