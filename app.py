@@ -1,5 +1,9 @@
 print("Hello Git")
-print("git is useful fot teamwork")
+<<<<<<< HEAD
+print("git is useful for learining")
+=======
+print("git is useful for learining")
+>>>>>>> feature-practice
 print("this isfeature branch")
 print("Learning GitHub pull")
 print("parcticing the git push")
